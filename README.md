@@ -1,6 +1,8 @@
-Ktraspota 
+# Ktraspota 🚌
 
-Pi Demo App is an example of how you can implement the various required flows in your app's code.
+Ktraspota - Lipia usafiri kwa Pi Coin Tanzania na mikoa yote kwa Pi.  tunapokea Pi moja kwa moja.
+
+Tech: Pi SDK + React + Express
 It aims to show you how to use Pi Platform API on the backend side and Pi SDK on the frontend side of your app.
 
 It is composed of two major parts:
